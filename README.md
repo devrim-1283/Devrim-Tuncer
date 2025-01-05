@@ -25,6 +25,7 @@ Uzun yıllardır aktif bir **Linux kullanıcısıyım**.
 ## Depo İçeriği  
 Bu depoda şunları bulabilirsiniz:  
 - Öğrendiğim programlama dilleriyle ilgili notlar
+- Geliştirdiğim Projeler
 
 ## İletişim  
 - **LinkedIn:** [Devrim Tunçer](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)  
