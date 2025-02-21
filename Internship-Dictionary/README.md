@@ -1,7 +1,3 @@
-# Project Repository
-
-This repository contains the projects I developed during all my internships. Each project has helped me better understand software development processes and gain experience working with different technologies.
-
 ## Internship 1: Marmara Turk and Global Turk
 
 My first internship is ongoing at Marmara Turk and Global Turk companies. During this internship, I developed various projects, and you can find the main files of these projects in this repository. My projects have helped me better understand software development processes and gain experience working with different technologies.
@@ -35,10 +31,6 @@ If you have any questions or feedback, please contact me:
 - **Servet Tunçer**: [LinkedIn Profile](https://www.linkedin.com/in/servet-tun%C3%A7er-0bb377238/)
 
 This repository was created to showcase the experiences I gained and the projects I developed during my internship. I plan to add more internships and projects in the future. Thank you for your feedback and suggestions.
-
-# Proje Deposu
-
-Bu depo, yapmış olduğum tüm stajlarda geliştirdiğim projeleri içermektedir. Her bir proje, yazılım geliştirme süreçlerini daha iyi anlamama ve farklı teknolojilerle çalışma deneyimi kazanmama yardımcı olmuştur.
 
 ## Staj 1: Marmara Turk and Global Turk
 
