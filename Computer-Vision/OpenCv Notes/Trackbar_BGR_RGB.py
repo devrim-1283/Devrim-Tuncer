@@ -1,23 +1,16 @@
 import cv2
 import numpy as np
 
-
-
 def nothing(x):
     pass
 
-
 img = np.zeros((512,512,3),dtype="uint8")
 cv2.namedWindow("Image")
-
 
 cv2.createTrackbar("Switch","Image",0,1,nothing)
 cv2.createTrackbar("R","Image",0,255,nothing)
 cv2.createTrackbar("G","Image",0,255,nothing)
 cv2.createTrackbar("B","Image",0,255,nothing)
-
-
-
 
 while True:
 
