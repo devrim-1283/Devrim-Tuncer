@@ -1,10 +1,8 @@
-# Devrim Tunçer
+﻿# Devrim Tunçer
 
 Hello, I'm **Devrim Tunçer**.  
 I am studying **Computer Engineering** at Alanya Alaaddin Keykubat University.  
 I graduated at the top of my class from **Avcılar Multi-Program Anatolian High School**.  
-
-I have been an active **Linux user** for many years.  
 
 ## Repository Content  
 In this repository, you can find:  
@@ -20,7 +18,7 @@ Merhaba, ben **Devrim Tunçer**.
 Alanya Alaaddin Keykubat Üniversitesi'nde **Bilgisayar Mühendisliği** okuyorum.  
 Liseyi **Avcılar Çok Programlı Anadolu Lisesi**'nde birincilikle tamamladım.  
 
-Uzun yıllardır aktif bir **Linux kullanıcısıyım**.  
+
 
 ## Depo İçeriği  
 Bu depoda şunları bulabilirsiniz:  
